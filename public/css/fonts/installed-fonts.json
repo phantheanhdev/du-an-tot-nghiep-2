@@ -1,0 +1,14 @@
+{
+    "arial": {
+        "normal": "C:\\xampp\\htdocs\\du-an-tot-nghiep\\vendor\\dompdf\\dompdf\/lib\/fonts\/arial",
+        "bold": "C:\\xampp\\htdocs\\du-an-tot-nghiep\\vendor\\dompdf\\dompdf\/lib\/fonts\/arial",
+        "italic": "C:\\xampp\\htdocs\\du-an-tot-nghiep\\vendor\\dompdf\\dompdf\/lib\/fonts\/arial",
+        "bold_italic": "C:\\xampp\\htdocs\\du-an-tot-nghiep\\vendor\\dompdf\\dompdf\/lib\/fonts\/arial"
+    },
+    "roboto_condensed": {
+        "normal": "C:\\xampp\\htdocs\\du-an-tot-nghiep\\vendor\\dompdf\\dompdf\/lib\/fonts\/RobotoCondensed-VariableFont_wght",
+        "bold": "C:\\xampp\\htdocs\\du-an-tot-nghiep\\vendor\\dompdf\\dompdf\/lib\/fonts\/RobotoCondensed-VariableFont_wght",
+        "italic": "C:\\xampp\\htdocs\\du-an-tot-nghiep\\vendor\\dompdf\\dompdf\/lib\/fonts\/RobotoCondensed-VariableFont_wght",
+        "bold_italic": "C:\\xampp\\htdocs\\du-an-tot-nghiep\\vendor\\dompdf\\dompdf\/lib\/fonts\/RobotoCondensed-VariableFont_wght"
+    }
+}
